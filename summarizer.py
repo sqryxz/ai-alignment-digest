@@ -24,7 +24,7 @@ def clean_text(text: str) -> str:
     
     return text.strip()
 
-def extract_first_paragraph(text: str, max_words: int = 75) -> str:
+def extract_first_paragraph(text: str, max_words: int = 200) -> str:
     """Extract and truncate the first meaningful paragraph of text."""
     # Clean the text first
     text = clean_text(text)
