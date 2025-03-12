@@ -1,6 +1,6 @@
 # AI Alignment Daily Digest
 
-A Python script that generates daily digests of AI alignment-related posts. The script processes posts from various sources, categorizes them by topic, identifies key themes, and creates a well-organized digest.
+The AI Alignment Daily Digest is an automated tool that aggregates, categorizes, and summarizes discussions and developments in the field of AI alignment. It processes posts from various sources (currently including the Alignment Forum) and generates structured daily digests that help readers stay informed about key developments in AI safety and alignment research. The tool uses natural language processing to categorize posts into relevant topics (such as AI Safety, Philosophy, and Technical Research), identifies key themes across multiple posts, and generates concise summaries while preserving the core arguments and insights. Each digest includes an overview of the day's posts, cross-references between related topics, and maintains a historical record to track the evolution of discussions over time. The system runs automatically through GitHub Actions, creating daily summaries that are particularly valuable for researchers, practitioners, and anyone interested in following the rapidly evolving field of AI alignment.
 
 ## Features
 
