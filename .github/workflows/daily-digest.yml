@@ -8,6 +8,9 @@ on:
 jobs:
   generate-digest:
     runs-on: ubuntu-latest
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      PYTHONPATH: ${{ github.workspace }}
 
     steps:
     - uses: actions/checkout@v4
@@ -21,6 +24,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        python -c "import nltk; nltk.download(['punkt', 'punkt_tab'])"
+
+    - name: Set up directories
+      run: |
+        mkdir -p data/posts
+        mkdir -p data/digests
 
     - name: Generate digest
       run: python summarizer.py
@@ -29,5 +38,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add .
+        git add data/digests/
+        git add ai_alignment_digest.log
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update digest for $(date +%Y-%m-%d)" && git push)
