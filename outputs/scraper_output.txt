@@ -1,0 +1,92 @@
+
+Fetching posts from the last 2 days...
+
+Alignment Forum Posts:
+Found 4 posts from Alignment Forum
+
+================================================================================
+Title: Paths and waystations in AI safety
+Author: Joe Carlsmith
+Source: Alignment Forum
+Date: 2025-03-11 18:52:57 UTC
+URL: https://www.alignmentforum.org/posts/kBgySGcASWa4FWdD9/paths-and-waystations-in-ai-safety-1
+--------------------------------------------------------------------------------
+Content Preview:
+Published on March 11, 2025 6:52 PM GMT  
+  
+
+
+ _(Audio version_ _here_ _(read by the author), or search for "Joe Carlsmith Audio" on your podcast app._
+
+ _This is the third essay in a series that I’m calling “How do we solve the alignment problem?”.  I’m hoping that the individual essays can be read fairly well on their own, but see __this introduction_ _  for a summary of the essays that have been released thus far, and for a bit more about the series as a whole.)_
+
+# 1\. Introduction
+
+The fir...
+================================================================================
+
+================================================================================
+Title: AI Control May Increase Existential Risk
+Author: Jan_Kulveit
+Source: Alignment Forum
+Date: 2025-03-11 14:30:08 UTC
+URL: https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk
+--------------------------------------------------------------------------------
+Content Preview:
+Published on March 11, 2025 2:30 PM GMT  
+  
+
+
+ _Epistemic status: The following isn't an airtight argument, but mostly a guess how things play out._  
+  
+Consider two broad possibilities:
+
+I. In worlds where we are doing reasonably well on alignment, AI control agenda does not have much impact.
+
+II. In worlds where we are failing at alignment, AI control may primarily shift probability mass away from "moderately large warning shots" and towards "ineffective warning shots" and "existential catas...
+================================================================================
+
+LessWrong Posts:
+Found 10 posts from LessWrong
+
+================================================================================
+Title: Existing UDTs test the limits of Bayesianism (and consistency)
+Author: Cole Wyeth
+Source: LessWrong
+Date: 2025-03-12 04:09:11 UTC
+URL: https://www.lesswrong.com/posts/w2QmWzZBTBJ76xuwH/existing-udts-test-the-limits-of-bayesianism-and-consistency
+--------------------------------------------------------------------------------
+Content Preview:
+Published on March 12, 2025 4:09 AM GMT  
+  
+
+
+ _Epistemic status: Using UDT as a case study for the tools developed in my_ _meta-theory of rationality sequence_ _so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski. I am a bit of an outsider to the development of UDT and logical induction, though I've...
+================================================================================
+
+================================================================================
+Title: (Anti)Aging 101
+Author: George3d6
+Source: LessWrong
+Date: 2025-03-12 03:59:22 UTC
+URL: https://www.lesswrong.com/posts/fBCYC5ixwH7K7AQ9g/anti-aging-101
+--------------------------------------------------------------------------------
+Content Preview:
+Published on March 12, 2025 3:59 AM GMT  
+  
+
+
+A quest to solve aging must start with careful consideration of what it is.
+
+Aging is a constant in nature, from archaea to elephants. Where life finds death as counterpart, aging is unopposed, yet frames our understanding of both.
+
+To solve aging is to prevent death and avoid decay.
+
+Death is a rather sudden process and decay is a fuzzy concept.
+
+Decay is non-linear and hard to characterize at the organism level.
+
+Sudden regime changes can happen o...
+================================================================================
+
+Saved 14 posts to sample_posts.json

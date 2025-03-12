@@ -1,0 +1,180 @@
+================================================================================
+AI Alignment Daily Digest - 2025-03-13
+
+Today's digest contains 9 unique posts across 8 topics.
+Some posts appear in multiple categories based on their content.
+
+Key Themes:
+-----------
+• Technical Progress
+  Technical developments in AI systems and capabilities
+  6 related posts, including:
+  - The Most Forbidden Technique
+  - Field Testing in Brazilian Almost Military Training
+  - You don't actually need a physical multiverse to explain anthropic fine-tuning.
+
+• AI Safety & Control
+  Discussion of AI safety mechanisms, alignment strategies, and risk mitigation
+  4 related posts, including:
+  - The Most Forbidden Technique
+  - Existing UDTs test the limits of Bayesianism (and consistency)
+  - The Social Economy
+
+• Research & Methods
+  Research methodologies and experimental findings
+  3 related posts, including:
+  - The Most Forbidden Technique
+  - Existing UDTs test the limits of Bayesianism (and consistency)
+  - (Anti)Aging 101
+
+• Philosophical Implications
+  Exploration of ethical and philosophical aspects of AI development
+  3 related posts, including:
+  - Existing UDTs test the limits of Bayesianism (and consistency)
+  - The Social Economy
+  - The Most Forbidden Technique
+
+• Policy & Governance
+  Regulatory frameworks and governance approaches
+  2 related posts, including:
+  - The Most Forbidden Technique
+  - Existing UDTs test the limits of Bayesianism (and consistency)
+
+
+Detailed Posts by Category:
+------------------------
+
+=== AI Capabilities (6 posts) ===
+
+• Field Testing in Brazilian Almost Military Training
+  By P. João (LessWrong) - 2025-03-12
+  Also appears in: Meta
+  Publishing stories like this makes me feel more naked than if I were doing a striptease. And the worst part is that no one puts dollars in my underwear, but here it goes: When I decided to write for the LessWrong community about the mechanisms of humor, I thought: "If I managed to avoid jail by using acid comedy in military barracks, I can certainly contribute something useful here.
+
+• The Most Forbidden Technique
+  By Zvi (LessWrong) - 2025-03-12
+  Also appears in: AI Safety, Science, Economics, Technology
+  The Most Forbidden Technique is training an AI using interpretability techniques. An AI produces a final output [X] via some method [M]. You can analyze [M] using technique [T], to learn what the AI is up to. You could train on that. Never do that. You train on [X]. Only [X]. Never [M], never [T]. Why? Because [T] is how you figure out when the model is misbehaving.
+
+• You don't actually need a physical multiverse to explain anthropic fine-tuning.
+  By Fraser (LessWrong) - 2025-03-12
+  Also appears in: AI Safety, Science
+  The standard argument usually goes something like this: > Alice: there's a lot about the Earth that seems suspiciously fine-tuned for the evolution of complex life. > > Our orbit happens to lie in this fairly narrow band that allows for liquid water, and it seems other solvents don't work nearly as well in supporting biochemistry.
+
+• AI Can't Write Good Fiction
+  By JustisMills (LessWrong) - 2025-03-12
+  Also appears in: AI Safety
+  When Deepseek came out, there was a lot of fanfare about it being good at creative writing. I like AI and I love creative writing, so I decided to give it a spin. Specifically, I told Deepseek to do its best to write a story that might get accepted at Smokelong, one of the best flash fiction magazines in the business.
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Safety, Science, Economics, Meta, Philosophy
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
+• The Social Economy
+  By kylefurlong (LessWrong) - 2025-03-12
+  Also appears in: Economics
+  The Social Economy is a proposal in political economy to equalize purchasing power through income based pricing. Informally called PMI, this new "currency" gives everyone about 100 PMI worth of purchasing power each month. Since the average monthly income in the United States is about 4000 dollars, 1 PMI roughly equates to about 40 dollars.
+
+=== AI Safety (6 posts) ===
+
+• Many life-saving drugs fail for lack of funding. But there’s a solution: desperate rich people
+  By Mvolz (LessWrong) - 2025-03-12
+  Two scrappy middle-aged men without PhD.s (self-described) have ethical solutions on how to fund drug trials with potential, including an anti-aging drug. Discuss.
+
+• The Most Forbidden Technique
+  By Zvi (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, Science, Economics, Technology
+  The Most Forbidden Technique is training an AI using interpretability techniques. An AI produces a final output [X] via some method [M]. You can analyze [M] using technique [T], to learn what the AI is up to. You could train on that. Never do that. You train on [X]. Only [X]. Never [M], never [T]. Why? Because [T] is how you figure out when the model is misbehaving.
+
+• You don't actually need a physical multiverse to explain anthropic fine-tuning.
+  By Fraser (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, Science
+  The standard argument usually goes something like this: > Alice: there's a lot about the Earth that seems suspiciously fine-tuned for the evolution of complex life. > > Our orbit happens to lie in this fairly narrow band that allows for liquid water, and it seems other solvents don't work nearly as well in supporting biochemistry.
+
+• AI Can't Write Good Fiction
+  By JustisMills (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities
+  When Deepseek came out, there was a lot of fanfare about it being good at creative writing. I like AI and I love creative writing, so I decided to give it a spin. Specifically, I told Deepseek to do its best to write a story that might get accepted at Smokelong, one of the best flash fiction magazines in the business.
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, Science, Economics, Meta, Philosophy
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
+• (Anti)Aging 101
+  By George3d6 (LessWrong) - 2025-03-12
+  Also appears in: Science
+  A quest to solve aging must start with careful consideration of what it is. Aging is a constant in nature, from archaea to elephants. Where life finds death as counterpart, aging is unopposed, yet frames our understanding of both. To solve aging is to prevent death and avoid decay. Death is a rather sudden process and decay is a fuzzy concept. Decay is non-linear and hard to characterize at the organism level.
+
+=== Science (4 posts) ===
+
+• The Most Forbidden Technique
+  By Zvi (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Economics, Technology
+  The Most Forbidden Technique is training an AI using interpretability techniques. An AI produces a final output [X] via some method [M]. You can analyze [M] using technique [T], to learn what the AI is up to. You could train on that. Never do that. You train on [X]. Only [X]. Never [M], never [T]. Why? Because [T] is how you figure out when the model is misbehaving.
+
+• You don't actually need a physical multiverse to explain anthropic fine-tuning.
+  By Fraser (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety
+  The standard argument usually goes something like this: > Alice: there's a lot about the Earth that seems suspiciously fine-tuned for the evolution of complex life. > > Our orbit happens to lie in this fairly narrow band that allows for liquid water, and it seems other solvents don't work nearly as well in supporting biochemistry.
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Economics, Meta, Philosophy
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
+• (Anti)Aging 101
+  By George3d6 (LessWrong) - 2025-03-12
+  Also appears in: AI Safety
+  A quest to solve aging must start with careful consideration of what it is. Aging is a constant in nature, from archaea to elephants. Where life finds death as counterpart, aging is unopposed, yet frames our understanding of both. To solve aging is to prevent death and avoid decay. Death is a rather sudden process and decay is a fuzzy concept. Decay is non-linear and hard to characterize at the organism level.
+
+=== Economics (3 posts) ===
+
+• The Most Forbidden Technique
+  By Zvi (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Science, Technology
+  The Most Forbidden Technique is training an AI using interpretability techniques. An AI produces a final output [X] via some method [M]. You can analyze [M] using technique [T], to learn what the AI is up to. You could train on that. Never do that. You train on [X]. Only [X]. Never [M], never [T]. Why? Because [T] is how you figure out when the model is misbehaving.
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Science, Meta, Philosophy
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
+• The Social Economy
+  By kylefurlong (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities
+  The Social Economy is a proposal in political economy to equalize purchasing power through income based pricing. Informally called PMI, this new "currency" gives everyone about 100 PMI worth of purchasing power each month. Since the average monthly income in the United States is about 4000 dollars, 1 PMI roughly equates to about 40 dollars.
+
+=== Meta (2 posts) ===
+
+• Field Testing in Brazilian Almost Military Training
+  By P. João (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities
+  Publishing stories like this makes me feel more naked than if I were doing a striptease. And the worst part is that no one puts dollars in my underwear, but here it goes: When I decided to write for the LessWrong community about the mechanisms of humor, I thought: "If I managed to avoid jail by using acid comedy in military barracks, I can certainly contribute something useful here.
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Science, Economics, Philosophy
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
+=== Other (1 posts) ===
+
+• Who is your favorite person, and why?
+  By tailcalled (LessWrong) - 2025-03-12
+  Discuss.
+
+=== Technology (1 posts) ===
+
+• The Most Forbidden Technique
+  By Zvi (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Science, Economics
+  The Most Forbidden Technique is training an AI using interpretability techniques. An AI produces a final output [X] via some method [M]. You can analyze [M] using technique [T], to learn what the AI is up to. You could train on that. Never do that. You train on [X]. Only [X]. Never [M], never [T]. Why? Because [T] is how you figure out when the model is misbehaving.
+
+=== Philosophy (1 posts) ===
+
+• Existing UDTs test the limits of Bayesianism (and consistency)
+  By Cole Wyeth (LessWrong) - 2025-03-12
+  Also appears in: AI Capabilities, AI Safety, Science, Economics, Meta
+  Epistemic status: Using UDT as a case study for the tools developed in my meta-theory of rationality sequence so far, which means all previous posts are prerequisites. This post is the result of conversations with many people at the CMU agent foundations conference, including particularly Daniel A. Herrmann, Ayden Mohensi, Scott Garrabrant, and Abram Demski.
+
