@@ -16,8 +16,9 @@ scraping:
 # Summarization configuration
 summarization:
   max_length: 200
-  model: "deepseek-chat-33b"
-  temperature: 0.3
+  model: "deepseek-chat"
+  max_tokens: 300
+  temperature: 0.7
   system_prompt: "Summarize this AI alignment post concisely while preserving key technical details and insights. Focus on the main arguments and conclusions."
 
 # Web interface configuration
@@ -30,4 +31,8 @@ web:
 storage:
   posts_dir: "data/posts"
   digests_dir: "data/digests"
-  format: "json" 
+  format: "json"
+
+logging:
+  level: "INFO"
+  file: "ai_alignment_digest.log" 
