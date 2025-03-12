@@ -1,0 +1,33 @@
+# Scraping configuration
+scraping:
+  sources:
+    - name: "AI Alignment Forum"
+      url: "https://www.alignmentforum.org/allPosts"
+      type: "alignment_forum"
+    - name: "LessWrong"
+      url: "https://www.lesswrong.com/allPosts"
+      type: "lesswrong"
+  schedule:
+    time: "00:00"  # UTC
+    frequency: "daily"
+  max_posts_per_source: 10
+  lookback_days: 1
+
+# Summarization configuration
+summarization:
+  max_length: 200
+  model: "gpt-4-turbo-preview"
+  temperature: 0.3
+  system_prompt: "Summarize this AI alignment post concisely while preserving key technical details and insights. Focus on the main arguments and conclusions."
+
+# Web interface configuration
+web:
+  host: "0.0.0.0"
+  port: 8000
+  title: "AI Alignment Digest"
+
+# Storage configuration
+storage:
+  posts_dir: "data/posts"
+  digests_dir: "data/digests"
+  format: "json" 
