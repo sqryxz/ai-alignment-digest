@@ -128,3 +128,8 @@
 2025-04-06 00:50:11,601 - __main__ - INFO - Generated digest
 2025-04-06 00:50:11,601 - __main__ - INFO - Saved digest to data/digests/digest_2025-04-06.txt
 2025-04-06 00:50:11,601 - __main__ - INFO - Saved digest
+2025-04-07 00:48:18,990 - __main__ - INFO - Summarizer initialized successfully
+2025-04-07 00:48:18,991 - __main__ - INFO - Loaded 0 posts
+2025-04-07 00:48:18,991 - __main__ - INFO - Generated digest
+2025-04-07 00:48:18,991 - __main__ - INFO - Saved digest to data/digests/digest_2025-04-07.txt
+2025-04-07 00:48:18,991 - __main__ - INFO - Saved digest
