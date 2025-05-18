@@ -333,3 +333,8 @@
 2025-05-17 00:48:08,557 - __main__ - INFO - Generated digest
 2025-05-17 00:48:08,557 - __main__ - INFO - Saved digest to data/digests/digest_2025-05-17.txt
 2025-05-17 00:48:08,557 - __main__ - INFO - Saved digest
+2025-05-18 00:53:59,088 - __main__ - INFO - Summarizer initialized successfully
+2025-05-18 00:53:59,089 - __main__ - INFO - Loaded 0 posts
+2025-05-18 00:53:59,089 - __main__ - INFO - Generated digest
+2025-05-18 00:53:59,089 - __main__ - INFO - Saved digest to data/digests/digest_2025-05-18.txt
+2025-05-18 00:53:59,089 - __main__ - INFO - Saved digest
