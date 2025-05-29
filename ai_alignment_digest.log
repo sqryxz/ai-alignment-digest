@@ -388,3 +388,8 @@
 2025-05-28 00:50:19,369 - __main__ - INFO - Generated digest
 2025-05-28 00:50:19,370 - __main__ - INFO - Saved digest to data/digests/digest_2025-05-28.txt
 2025-05-28 00:50:19,370 - __main__ - INFO - Saved digest
+2025-05-29 00:50:39,936 - __main__ - INFO - Summarizer initialized successfully
+2025-05-29 00:50:39,937 - __main__ - INFO - Loaded 0 posts
+2025-05-29 00:50:39,937 - __main__ - INFO - Generated digest
+2025-05-29 00:50:39,937 - __main__ - INFO - Saved digest to data/digests/digest_2025-05-29.txt
+2025-05-29 00:50:39,937 - __main__ - INFO - Saved digest
