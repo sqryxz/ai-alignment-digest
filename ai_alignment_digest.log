@@ -563,3 +563,8 @@
 2025-07-02 00:52:15,209 - __main__ - INFO - Generated digest
 2025-07-02 00:52:15,210 - __main__ - INFO - Saved digest to data/digests/digest_2025-07-02.txt
 2025-07-02 00:52:15,210 - __main__ - INFO - Saved digest
+2025-07-03 00:51:58,980 - __main__ - INFO - Summarizer initialized successfully
+2025-07-03 00:51:58,981 - __main__ - INFO - Loaded 0 posts
+2025-07-03 00:51:58,981 - __main__ - INFO - Generated digest
+2025-07-03 00:51:58,981 - __main__ - INFO - Saved digest to data/digests/digest_2025-07-03.txt
+2025-07-03 00:51:58,981 - __main__ - INFO - Saved digest
