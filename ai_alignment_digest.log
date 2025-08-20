@@ -803,3 +803,8 @@
 2025-08-19 00:51:07,457 - __main__ - INFO - Generated digest
 2025-08-19 00:51:07,457 - __main__ - INFO - Saved digest to data/digests/digest_2025-08-19.txt
 2025-08-19 00:51:07,457 - __main__ - INFO - Saved digest
+2025-08-20 00:47:45,071 - __main__ - INFO - Summarizer initialized successfully
+2025-08-20 00:47:45,072 - __main__ - INFO - Loaded 0 posts
+2025-08-20 00:47:45,072 - __main__ - INFO - Generated digest
+2025-08-20 00:47:45,072 - __main__ - INFO - Saved digest to data/digests/digest_2025-08-20.txt
+2025-08-20 00:47:45,072 - __main__ - INFO - Saved digest
