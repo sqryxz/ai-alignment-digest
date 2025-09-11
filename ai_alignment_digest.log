@@ -913,3 +913,8 @@
 2025-09-10 00:44:50,829 - __main__ - INFO - Generated digest
 2025-09-10 00:44:50,829 - __main__ - INFO - Saved digest to data/digests/digest_2025-09-10.txt
 2025-09-10 00:44:50,829 - __main__ - INFO - Saved digest
+2025-09-11 00:45:40,395 - __main__ - INFO - Summarizer initialized successfully
+2025-09-11 00:45:40,396 - __main__ - INFO - Loaded 0 posts
+2025-09-11 00:45:40,396 - __main__ - INFO - Generated digest
+2025-09-11 00:45:40,396 - __main__ - INFO - Saved digest to data/digests/digest_2025-09-11.txt
+2025-09-11 00:45:40,396 - __main__ - INFO - Saved digest
