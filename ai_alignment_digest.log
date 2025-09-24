@@ -978,3 +978,8 @@
 2025-09-23 00:45:10,253 - __main__ - INFO - Generated digest
 2025-09-23 00:45:10,253 - __main__ - INFO - Saved digest to data/digests/digest_2025-09-23.txt
 2025-09-23 00:45:10,253 - __main__ - INFO - Saved digest
+2025-09-24 00:45:49,717 - __main__ - INFO - Summarizer initialized successfully
+2025-09-24 00:45:49,717 - __main__ - INFO - Loaded 0 posts
+2025-09-24 00:45:49,717 - __main__ - INFO - Generated digest
+2025-09-24 00:45:49,717 - __main__ - INFO - Saved digest to data/digests/digest_2025-09-24.txt
+2025-09-24 00:45:49,717 - __main__ - INFO - Saved digest
