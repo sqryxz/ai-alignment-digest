@@ -1893,3 +1893,8 @@
 2026-03-25 01:10:09,357 - __main__ - INFO - Generated digest
 2026-03-25 01:10:09,357 - __main__ - INFO - Saved digest to data/digests/digest_2026-03-25.txt
 2026-03-25 01:10:09,357 - __main__ - INFO - Saved digest
+2026-03-26 01:15:46,105 - __main__ - INFO - Summarizer initialized successfully
+2026-03-26 01:15:46,106 - __main__ - INFO - Loaded 0 posts
+2026-03-26 01:15:46,106 - __main__ - INFO - Generated digest
+2026-03-26 01:15:46,106 - __main__ - INFO - Saved digest to data/digests/digest_2026-03-26.txt
+2026-03-26 01:15:46,106 - __main__ - INFO - Saved digest
