@@ -2043,3 +2043,8 @@
 2026-04-24 01:25:41,199 - __main__ - INFO - Generated digest
 2026-04-24 01:25:41,199 - __main__ - INFO - Saved digest to data/digests/digest_2026-04-24.txt
 2026-04-24 01:25:41,199 - __main__ - INFO - Saved digest
+2026-04-25 01:19:12,302 - __main__ - INFO - Summarizer initialized successfully
+2026-04-25 01:19:12,303 - __main__ - INFO - Loaded 0 posts
+2026-04-25 01:19:12,303 - __main__ - INFO - Generated digest
+2026-04-25 01:19:12,303 - __main__ - INFO - Saved digest to data/digests/digest_2026-04-25.txt
+2026-04-25 01:19:12,303 - __main__ - INFO - Saved digest
